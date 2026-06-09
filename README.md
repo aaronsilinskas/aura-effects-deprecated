@@ -1,5 +1,9 @@
 # aura-effects
 
+> **Deprecated:** This repository has been migrated to the [aura-prototype](https://github.com/aaronsilinskas/aura-prototype) mono-repo for faster iteration. Please use that repository going forward.
+
+---
+
 A lightweight animation library for RGB LED strips, designed for spell and
 elemental effects on constrained hardware such as CircuitPython microcontrollers.
 It separates **what an effect looks like** (shapes, palettes) from **how it
